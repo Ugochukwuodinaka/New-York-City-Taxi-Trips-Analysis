@@ -97,8 +97,8 @@ Below is a table that describes all the fields in all the tables in this dataset
 
 | Table                    | Field                    | Description                            |            
 |:------------------------ |:------------------------ |:-------------------------------------- |
-|data_dictionary           |  VendorID                |A code indicating the LPEP provider that provided the record (1= Creative Mobile Technologies, LLC; 2= Verifone Inc.)|
-|                          |lpep_pickup_datetime      The date and time when the meter was engaged          |
+|data_dictionary           |VendorID                  |A code indicating the LPEP provider that provided the record (1= Creative Mobile Technologies, LLC; 2= Verifone Inc.)|
+|                          |lpep_pickup_datetime      |The date and time when the meter was engaged          |
 |                          |lpep_dropoff_datetim      |The date and time when the meter was disengaged        |
 |                          |store_and_fwd_flag        |This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka store and forward, because the vehicle did not have a connection to the server (Y= store and forward trip; N= not a store and forward trip)       |
 |                          |RatecodeID                |The final rate code in effect at the end of the trip (1= Standard rate; 2= JFK; 3= Newark; 4= Nassau or Westchester; 5= Negotiated fare; 6= Group ride)       |
