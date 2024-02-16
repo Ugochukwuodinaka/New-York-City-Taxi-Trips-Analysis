@@ -85,15 +85,7 @@ Tableau (Shapefile).
 
 The 2 key tables that contains the taxi trips data are the 2017_taxi_trips.csv and 2018_taxi_trips.csv. Both contains same number columns and column names.
 
-Below is a table that describes all the fields in all the tables in this dataset.
-
-
-
-
-
-
-
-
+Below is a table that displays the data_dictionary which explians the column headers in the taxi trips data 2017 and 2018, and also displays and explains the taxi_zones and the 454_calender columns for a better understanding of this dataset:
 
 | Table                    | Field                    | Description                            |            
 |:------------------------ |:------------------------ |:-------------------------------------- |
@@ -116,22 +108,20 @@ Below is a table that describes all the fields in all the tables in this dataset
 |                          |payment_type              |A numeric code signifying how the passenger paid for the trip (1= Credit card; 2= Cash; 3= No charge; 4= Dispute; 5= Unknown; 6= Voided trip) |
 |                          |trip_type                 |A code indicating whether the trip was a street-hail or a dispatch that is automatically assigned based on the metered rate in use but can be altered by the driver (1= Street-hail; 2= Dispatch) |
 |                          |congestion_surcharge      |Congestion surcharge for trips that start, end or pass through the congestion zone in Manhattan, south of 96th street ($2.50 for non-shared trips in Yellow Taxis; $2.75 for non-shared trips in Green Taxis) |
-|Consumer_Preferences      |Preferred_Cuisine        |Types of food the consumer prefers        |
-|Ratings                   |Overall_Rating           |The overall rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)   |
-|                          |Food_Rating              |The food's rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)    |
-|                          |Service_Rating           |The service rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)    |
-|Restaurants               |Restaurant_ID            |Unique identifier for each restaurant  |
-|                          |Name                     |The restaurant's name |
-|                          |City                     |The restaurant's city|
-|                          |State                    |The restaurant's state |
-|                          |Country                  |The restaurant's country|
-|                          |Zip_Code                 |The restaurat's zip code|
-|                          |Latitude                 |The restaurant's latitude|
-|                          |Longitude                |The restaurant's longitude|
-|                          |Alcohol_Service          |Whether the restaurant seves no alcohol, wine & beer, or a full bar|
-|                          |Smoking_Allowed          |Whether any smoking is allowed, including in the bar or in smoking sections|
-|                          |Price                    |The restaurant's price (low, medium, high)|
-|                          |Franchise                |Whether the restaurant is a franchise|
-|                          |Area                     |Whether the restaurant is in an open or closed area|
-|                          |Parking                  |Whether the restaurant offers any sort of parking (none, yes, public, valet)|
-|Restaurant_Cuisines       |Cuisines                 |Types of food the restaurant serves|
+|taxi_zones                |LocationID               |Unique identifier assigned to each specific location within the service zone       |
+|                          |Borough                  |The borough (administrative division) of New York City where the location is situated   |
+|                          |Zone                     |A specific geographical zone or area within the borough.    |
+|                          |service_zone             |Denotes the service zone classification of the location, indicating whether it falls within New York City's defined service zones for taxi operations.    |
+|454_calender              |Date                     |The calendar date of the recorded data entry  |
+|                          |FiscalYear               |The fiscal year in which the date falls, typically representing the financial reporting year of the organization |
+|                          |FiscalQuarter            |The fiscal quarter of the year in which the date falls|
+|                          |FiscalMonthNumber        |The numerical representation of the fiscal month within the fiscal year|
+|                          |FiscalMonthOfQuarter     |The ordinal representation of the fiscal month within the fiscal quarter|
+|                          |FiscalWeekOfYear         |The week number within the fiscal year|
+|                          |DayOfWeek                |The day of the week corresponding to the date (e.g., Monday, Tuesday, etc.)|
+|                          |FiscalMonthName          |The name of the fiscal month (e.g., January, February, etc.)|
+|                          |FiscalMonthYear          |The combination of the fiscal month and year|
+|                          |FiscalQuarterYear        |The combination of the fiscal quarter and year|
+|                          |DayOfMonthNumber         |The numerical representation of the day within the month|
+|                          |DayName                  |The name of the day corresponding to the date (e.g., Monday, Tuesday, etc.)|
+
