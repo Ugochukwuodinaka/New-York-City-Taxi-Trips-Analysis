@@ -19,7 +19,7 @@ We’ve been collecting trip data for ~2 years now, but without a proper analyst
 The raw data has some issues, so we'll need to make the following adjustments and assumptions to clean and prep the data:
 - Let’s stick to trips that were NOT sent via “store and forward”
 - I’m only interested in street-hailed trips paid by card or cash, with a standard rate
-- We can remove any trips with dates before 2017 or after 2020, along with any trips with pickups or drop-offs into unknown zones
+- We can remove any trips with dates before 2017 or after 2018, along with any trips with pickups or drop-offs into unknown zones
 - Let’s assume any trips with no recorded passengers had 1 passenger
 - If a pickup date/time is AFTER the drop-off date/time, let’s swap them
 - We can remove trips lasting longer than a day, and any trips which show both a distance and fare amount of 0
@@ -125,3 +125,28 @@ Below is a table that displays the data_dictionary which explians the column hea
 |                          |DayOfMonthNumber         |The numerical representation of the day within the month|
 |                          |DayName                  |The name of the day corresponding to the date (e.g., Monday, Tuesday, etc.)|
 
+
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Button
+
+
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. Changed the columns data types in both the 2017_taxi_trips.csv table and the 2018_taxi_trips.csv to the right data types.
+2. Sticked to the taxi trips that were not sent via __store and forward__ by removing all rows that has the value __"Y"__ in the data table rows of the __"store_and_fwd_flag"__ columns in both the 2017 and 2018 tables.
+3. Sticked only to the street-hailed trips paid for by __card__ or __cash__ with a standard rate by removing rows that doesn't have the text value __"card"__ or __"cash"__ in the __"payment_type_details"__ column of both tables.
+4. Removed all trips with dates before 2017 or after 2018, along with any trips with pickup or drop-offs into unknown zones by removing rows of data from both tables that the __"ipep_pickup_datetime"__ and __"ipep_dropoff_datetime"__ does not fall into the year 2017 and 2018. Secondly, removed rows from both table where the __"PULocationID"__ and __"DOLocationID"__ COLUMNS HAS THE VALUES __264__ or __265__ indicating unknown zones.
+5. Assigned __1__ passenger to the __"passenger_count"__ columns of both tables where the passsenger count row has null values or __0__.
+6. Swapped all __"ipep_pickup_datetime"__ and __"ipep_dropoff_datetime"__ columns where pi
