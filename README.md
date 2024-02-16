@@ -1,4 +1,4 @@
-# New York Taxi Trips (2017-2018) Analysis
+# New York City Taxi Trips (2017-2018) Analysis
 ![](New_York_Taxi_image.jpg)
 
 
@@ -13,7 +13,7 @@ Welcome to the team!
 
 This a Project Analysis and Visualization challenge!
 
-We’ve been collecting trip data for ~4 years now, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
+We’ve been collecting trip data for ~2 years now, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
 
 ### Objectives:
 The raw data has some issues, so we'll need to make the following adjustments and assumptions to clean and prep the data:
@@ -72,3 +72,13 @@ For this challenge, your task is to build a dashboard that meets the requirement
 - __Top 6 Trip Zones:__ I will Identify the top six zones with the highest trip volumes to prioritize service coverage and marketing efforts. 
 - __Number of Trips by Day of the Week:__ I will analyze trip counts by day of the week to identify trends and fluctuations in demand throughout the week. 
 - __Number of Trips by Time of the Day:__ I will segment trip counts by time intervals throughout the day to understand peak hours and periods of high demand. 
+
+
+### Dataset Overview
+This dataset contains 6 tables in csv format, along with a geospatial map in TopoJSON and Shapefile formats
+- The 2 Taxi Trips tables contain a total of 2,095,552 million Green Taxi trips in New York City from 2017 to 2018. Each record represents one trip, with fields containing details about the pick-up/drop-off times and locations, distances, fares, passengers, and more.
+-  The 454 Calendar table contains a fiscal calendar (2017-2020) used by the Taxi & Limousine Commission, with fields containing the date and fiscal year, quarter, month, 
+and week.
+- The Taxi Zones table contains information about 265 zone locations in New York City, including the location id, borough, and service zone.
+- The Taxi Zones Map files contain a map of New York City with divisions for the 265 locations that can be used to create custom map visuals in Power BI (TopoJSON) or 
+Tableau (Shapefile).
