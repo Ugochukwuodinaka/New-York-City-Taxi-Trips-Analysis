@@ -82,3 +82,56 @@ and week.
 - The Taxi Zones table contains information about 265 zone locations in New York City, including the location id, borough, and service zone.
 - The Taxi Zones Map files contain a map of New York City with divisions for the 265 locations that can be used to create custom map visuals in Power BI (TopoJSON) or 
 Tableau (Shapefile).
+
+The 2 key tables that contains the taxi trips data are the 2017_taxi_trips.csv and 2018_taxi_trips.csv. Both contains same number columns and column names.
+
+Below is a table that describes all the fields in all the tables in this dataset.
+
+
+
+
+
+
+
+
+
+| Table                    | Field                    | Description                            |            
+|:------------------------ |:------------------------ |:-------------------------------------- |
+|data_dictionary           |  VendorID                |A code indicating the LPEP provider that provided the record (1= Creative Mobile Technologies, LLC; 2= Verifone Inc.)|
+|                          |lpep_pickup_datetime      The date and time when the meter was engaged          |
+|                          |lpep_dropoff_datetim      |The date and time when the meter was disengaged        |
+|                          |store_and_fwd_flag        |This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka store and forward, because the vehicle did not have a connection to the server (Y= store and forward trip; N= not a store and forward trip)       |
+|                          |RatecodeID                |The final rate code in effect at the end of the trip (1= Standard rate; 2= JFK; 3= Newark; 4= Nassau or Westchester; 5= Negotiated fare; 6= Group ride)       |
+|                          |PULocationID              |TLC Taxi Zone in which the taximeter was engaged        |
+|                          |DOLocationID              |TLC Taxi Zone in which the taximeter was disengaged       |
+|                          |passenger_count           |The number of passengers in the vehicle (this is a driver entered value) |
+|                          |trip_distance             |The elapsed trip distance in miles reported by the taximeter |
+|                          |fare_amount               |The time-and-distance fare calculated by the meter |
+|                          |extra                     |Miscellaneous extras and surcharges (this only includes the $0.50 and $1 rush hour and overnight charges) |
+|                          |mta_tax                   |$0.50 MTA tax that is automatically triggered based on the metered rate in use |
+|                          |tip_amount                |Tip amount (automatically populated for credit card tips - cash tips are not included)   |
+|                          |tolls_amount              |Total amount of all tolls paid in trip           |
+|                          |improvement_surcharge     |$0.30 improvement surcharge assessed on hailed trips at the flag drop    |
+|                          |total_amount              |The total amount charged to passengers (does not include cash tips) |
+|                          |payment_type              |A numeric code signifying how the passenger paid for the trip (1= Credit card; 2= Cash; 3= No charge; 4= Dispute; 5= Unknown; 6= Voided trip) |
+|                          |trip_type                 |A code indicating whether the trip was a street-hail or a dispatch that is automatically assigned based on the metered rate in use but can be altered by the driver (1= Street-hail; 2= Dispatch) |
+|                          |congestion_surcharge      |Congestion surcharge for trips that start, end or pass through the congestion zone in Manhattan, south of 96th street ($2.50 for non-shared trips in Yellow Taxis; $2.75 for non-shared trips in Green Taxis) |
+|Consumer_Preferences      |Preferred_Cuisine        |Types of food the consumer prefers        |
+|Ratings                   |Overall_Rating           |The overall rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)   |
+|                          |Food_Rating              |The food's rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)    |
+|                          |Service_Rating           |The service rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory)    |
+|Restaurants               |Restaurant_ID            |Unique identifier for each restaurant  |
+|                          |Name                     |The restaurant's name |
+|                          |City                     |The restaurant's city|
+|                          |State                    |The restaurant's state |
+|                          |Country                  |The restaurant's country|
+|                          |Zip_Code                 |The restaurat's zip code|
+|                          |Latitude                 |The restaurant's latitude|
+|                          |Longitude                |The restaurant's longitude|
+|                          |Alcohol_Service          |Whether the restaurant seves no alcohol, wine & beer, or a full bar|
+|                          |Smoking_Allowed          |Whether any smoking is allowed, including in the bar or in smoking sections|
+|                          |Price                    |The restaurant's price (low, medium, high)|
+|                          |Franchise                |Whether the restaurant is a franchise|
+|                          |Area                     |Whether the restaurant is in an open or closed area|
+|                          |Parking                  |Whether the restaurant offers any sort of parking (none, yes, public, valet)|
+|Restaurant_Cuisines       |Cuisines                 |Types of food the restaurant serves|
