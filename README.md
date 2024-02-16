@@ -12,6 +12,7 @@ For this project, you’ll be playing the role of a new Data Analyst for the New
 Welcome to the team!
 
 This a Project Analysis and Visualization challenge!
+
 We’ve been collecting trip data for ~4 years now, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
 
 ### Objectives:
