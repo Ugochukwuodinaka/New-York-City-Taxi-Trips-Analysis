@@ -36,7 +36,7 @@ Once the data is cleaned up, I’m hoping you can build me a dashboard to help w
 5. Which days of the week and times of the day will be busiest?
 6. What will likely be the most popular pick-up and drop-off locations?
 
-Genrate your own insights to add to this!
+Generate your own insights to add to this!
 
 And of course i added more questions to the objective:
 7. What is the Total Revenue in this analysis?                                                                                                            
