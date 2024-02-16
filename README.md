@@ -39,6 +39,7 @@ Once the data is cleaned up, I’m hoping you can build me a dashboard to help w
 Generate your own insights to add to this!
 
 And of course i added more questions to the objective:
+
 7. What is the Total Revenue in this analysis?                                                                                                            
 8. What is the Taxi Trip Trend and Revenue Trend for 2017?                                                                                
 9. What is the Taxi Trip Trend and Revenue Trend for 2018?                                                                               
