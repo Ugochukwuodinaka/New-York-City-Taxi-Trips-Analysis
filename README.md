@@ -174,4 +174,4 @@ The data required for this analysis are located in 2 tables. Therefore, data mod
   
 Model View                                                                         |                                
 :---------------------------------------------------------------------------------:|
-![]([Model_View_Screenshot.png)                                             |        
+![](Model_View_Screenshot.png)                                             |        
