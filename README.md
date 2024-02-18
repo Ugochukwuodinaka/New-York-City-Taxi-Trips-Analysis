@@ -1,5 +1,5 @@
 # New York City Taxi Trips (2017-2018) Analysis
-![](New_York_Taxi_image.jpg)
+![](images/New_York_Taxi_image.jpg)
 
 
 ## Project Overview
@@ -43,6 +43,7 @@ And of course i added more questions to the objective:
 7. What is the Total Revenue in this analysis?                                                                                                            
 8. What is the Taxi Trip Trend and Revenue Trend for 2017?                                                                                
 9. What is the Taxi Trip Trend and Revenue Trend for 2018?                                                                               
+
 10. What is the total trips by Vendor?                                                                                                                               
 11. What is the total trips by payment type?                                                                                                                 
 12. What is the total trips by borough?                                                                                                                          
@@ -163,6 +164,7 @@ Below is a table that displays the data_dictionary which explians the column hea
 17. Reordered all columns in both tables appropriately.
 18. After cleaning and transforming these tables, the data rows of the 2017_taxi_trips.csv dropped from __1,048,574__ rows to __1,013,190__ rows, while the 2018_taxi_trips.csv data rows dropped from __1,046,977__ rows to __1,018,233__ rows of data.
 19. Merged both tables into a single table.
+20. Added a new column __"Trips_ID"__ which indexed all the trips merged from __1__ to __2,031,422 million__.
 
 
 ## Data Model Design
@@ -174,10 +176,23 @@ The data required for this analysis are located in 2 tables. Therefore, data mod
   
 Power Query Cleaned Data View                                                      |                                
 :---------------------------------------------------------------------------------:|
-![](Power_Query_Editor_Cleaned_Screenshot.png)                                     |        
+![](images/Power_Query_Editor_Cleaned_Screenshot.png)                                     |        
 
 
   
 Model View                                                                         |                                
 :---------------------------------------------------------------------------------:|
-![](Model_View_Screenshot.png)                                             |        
+![](images/Model_View_Screenshot.png)                                             |        
+
+
+## Visualization in Power BI:
+#### Report 1
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
+
+#### Report 2
+![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From the analysis, i made the following Key findings below:
+- The Total Number of Restaurants is __130.__
+- The Total Number of Consumers is __138.__
