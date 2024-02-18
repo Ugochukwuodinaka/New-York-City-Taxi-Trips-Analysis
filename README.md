@@ -187,10 +187,10 @@ Model View                                                                      
 
 ## Visualization in Power BI:
 #### Report 1
-![](images/Mexican_Restaurant_Rating_Analysis_Dashboard1.jpg)
+![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard1.jpg)
 
 #### Report 2
-![](images/Mexican_Restaurant_Rating_Analysis_Dashboard2.jpg)
+![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard2.jpg)
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
