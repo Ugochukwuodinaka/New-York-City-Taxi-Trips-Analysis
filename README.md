@@ -194,5 +194,14 @@ Model View                                                                      
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Number of Restaurants is __130.__
-- The Total Number of Consumers is __138.__
+- The Total Number of Ttrips is __2,031,422.__
+- Average Distance Per Trip is __2.88min.__
+- The Total Number of Passengers is __2,776,918.__
+- Average Trips Per Day is __25,714.__
+- Total Number of Trip Zones is __262.__
+- Average Fare Per Trip is __$12.__
+- Total Revenue is __$29.83M.__
+
+- <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2017.jpg" width="500">
+- **Taxi Trips Trend and Revenue Trend In 2017:**
+- In this analysis, 
