@@ -225,7 +225,12 @@ From the analysis, i made the following Key findings below:
 - __Customer Behavior Insights:__ Analyzing trip volumes and revenue patterns can provide insights into customer behavior, preferences, and travel habits, guiding service enhancements and marketing strategies to better meet customer needs and expectations.
 
 
-
-
-
-
+- <img src="images/Total_Trips_By_Vendor.jpg" width="250">
+- **Total Trips By Vendor:**
+- In this analysis of the Total Trips By Vendows, i came up with the insights below:
+- __Dominance of Verifone Inc:__ Verifone Inc emerges as the dominant player in the taxi industry, with a significantly higher total number of trips compared to Creative Mobile Technologies. The total trips of 1,668,809 by Verifone Inc represent approximately 82.15% of the total market share, indicating a strong presence and widespread adoption of Verifone's services within the industry.
+- __Market Share Disparity:__ The disparity in total trips between Verifone Inc and Creative Mobile Technologies highlights the uneven distribution of market share within the taxi industry. Verifone Inc's overwhelming market dominance suggests factors such as brand recognition, service reliability, and market penetration, which may contribute to its larger customer base and trip volumes.
+- __Competitive Landscape:__ Creative Mobile Technologies, while holding a smaller market share, still maintains a presence in the industry with a total of 362,607 trips. Although its market share percentage of 17.85% is significantly lower than Verifone Inc's, Creative Mobile Technologies still serves as a viable competitor in the market, catering to a niche segment or specific customer base.
+- __Implications for Strategic Planning:__ The analysis of total trips by vendors provides valuable insights for strategic planning and decision-making within both Verifone Inc and Creative Mobile Technologies. Verifone Inc can leverage its market dominance to further consolidate its position, invest in service enhancements, and explore expansion opportunities to maintain its competitive edge.
+Creative Mobile Technologies, on the other hand, may seek to increase its market share by identifying and capitalizing on niche markets, improving service offerings, and implementing targeted marketing strategies to attract more customers.
+- __Customer Preference and Satisfaction:__ The higher number of trips attributed to Verifone Inc may indicate a higher level of customer preference and satisfaction with its services, reflecting positively on factors such as service reliability, convenience, and overall customer experience.
