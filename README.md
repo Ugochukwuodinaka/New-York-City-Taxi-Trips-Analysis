@@ -5,7 +5,7 @@
 ## Project Overview
 
 ### Introduction:
-The "New York Taxi Trips (2017-2018) Analysis" project aims to explore and analyze taxi trip data from New York City spanning the years (Jan)2017 and (April - June) 2018. New York City's taxi services are a vital component of its transportation system, and analyzing trip data provides valuable insights into travel patterns, demand trends, and other factors influencing transportation dynamics within the city.
+The "New York Taxi Trips (2017-2018) Analysis" project aims to explore and analyze taxi trip data from New York City spanning the years (Jan)2017 and (April 28 - June 8) 2018. New York City's taxi services are a vital component of its transportation system, and analyzing trip data provides valuable insights into travel patterns, demand trends, and other factors influencing transportation dynamics within the city.
 
 For this project, you’ll be playing the role of a new Data Analyst for the New York City Taxi & Limousine Commission. It's your first week on the job, and you just received the following email from the Lead Dispatcher:
 
@@ -13,7 +13,7 @@ Welcome to the team!
 
 This a Project Analysis and Visualization challenge!
 
-We’ve been collecting trip data for ~2 years now, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
+We’ve been collecting trip data for specific months in 2017 and 2018, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
 
 ### Objectives:
 The raw data has some issues, so we'll need to make the following adjustments and assumptions to clean and prep the data:
@@ -42,7 +42,7 @@ And of course i added more questions to the objective:
 
 7. What is the Total Revenue in this analysis?                                                                                                            
 8. What is the Taxi Trip Trend and Revenue Trend for (Jan) 2017?                                                                                
-9. What is the Taxi Trip Trend and Revenue Trend for (April - June) 2018?                                                                               
+9. What is the Taxi Trip Trend and Revenue Trend for (April 28 - June 8) 2018?                                                                               
 10. What is the total trips by Vendor?                                                                                                                               
 11. What is the total trips by payment type?                                                                                                                 
 12. What is the total trips by borough?                                                                                                                          
@@ -64,8 +64,8 @@ For this challenge, your task is to build a dashboard that meets the requirement
 - __Busiest Days and Times of the Week:__ Utilizing historical trip data, i will identify patterns to determine the busiest days and times of the week for taxi services. 
 - __Most Popular Pick-up and Drop-off Locations:__ Employing a deep analysis techniques on cleaned data, i will identify the most popular pick-up and drop-off locations during each fiscal week. 
 - __Total Revenue Analysis:__ Summing up the fare amounts for all trips within the analyzed period to calculate the total revenue generated from taxi services. 
-- __Taxi Trip and Revenue Trends for (Jan) 2017:__ Analyzing trip volume and revenue trends over the course of 2017 to identify patterns, seasonality, and growth trends. 
-- __Taxi Trip and Revenue Trends for (April - June) 2018:__ Similar to the analysis for 2017, examining trip volume and revenue trends for 2018 to identify any shifts or changes in demand patterns. 
+- __Taxi Trip and Revenue Trends for (Jan) 2017:__ Analyzing trip volume and revenue trends over the course of (Jan) 2017 to identify patterns, seasonality, and growth trends. 
+- __Taxi Trip and Revenue Trends for (April 28- June 8) 2018:__ Similar to the analysis for 2017, examining trip volume and revenue trends for between April 28 to June 8, 2018 to identify any shifts or changes in demand patterns. 
 - __Total Trips by Vendor:__ I will aggregate trip counts based on the vendor or taxi company to assess their respective market share and performance. 
 - __Total Trips by Payment Type:__ I will categorize trip counts based on payment methods such as cash or card to understand customer preferences and payment trends. 
 - __Total Trips by Borough:__ I will Segment trip counts based on boroughs or geographic regions to identify areas of high demand and distribution patterns. 
@@ -76,7 +76,7 @@ For this challenge, your task is to build a dashboard that meets the requirement
 
 ### Dataset Overview
 This dataset contains 6 tables in csv format, along with a geospatial map in TopoJSON and Shapefile formats
-- The 2 Taxi Trips tables contain a total of 2,095,552 million Green Taxi trips in New York City for (Jan) 2017 and (April - June) 2018. Each record represents one trip, with fields containing details about the pick-up/drop-off times and locations, distances, fares, passengers, and more.
+- The 2 Taxi Trips tables contain a total of 2,095,552 million Green Taxi trips in New York City for (Jan) 2017 and (April 28 - June 8) 2018. Each record represents one trip, with fields containing details about the pick-up/drop-off times and locations, distances, fares, passengers, and more.
 -  The 454 Calendar table contains a fiscal calendar (2017-2020) used by the Taxi & Limousine Commission, with fields containing the date and fiscal year, quarter, month, 
 and week.
 - The Taxi Zones table contains information about 265 zone locations in New York City, including the location id, borough, and service zone.
@@ -161,9 +161,9 @@ Below is a table that displays the data_dictionary which explians the column hea
 15. Added a custom column __"payment_details"__ in both tables which also extracts the payment type code from the __"payment_type"__ column and converts it to the actual payment type using the "If function" which will help us identify actual payment types used in paying for taxi fares.
 16. Made sure no columns in both tables have null value cells an that all columns report a column quality of __100%__ valid.
 17. Reordered all columns in both tables appropriately.
-18. After cleaning and transforming these tables, the data rows of the 2017_taxi_trips.csv dropped from __1,048,574__ rows to __1,013,190__ rows, while the 2018_taxi_trips.csv data rows dropped from __1,046,977__ rows to __1,018,233__ rows of data.
+18. After cleaning and transforming these tables, the data rows of the 2017_taxi_trips.csv dropped from __1,048,574__ rows to __1,013,190__ rows, while the 2018_taxi_trips.csv data rows dropped from __1,046,977__ rows to __998,028__ rows of data.
 19. Merged both tables into a single table.
-20. Added a new column __"Trips_ID"__ which indexed all the trips merged from __1__ to __2,031,422 million__.
+20. Added a new column __"Trips_ID"__ which indexed all the trips merged from __1__ to __2,011,218 million__.
 
 
 ## Data Model Design
@@ -193,13 +193,13 @@ Model View                                                                      
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Number of Ttrips is __2,031,422.__
-- Average Distance Per Trip is __2.88min.__
-- The Total Number of Passengers is __2,776,918.__
-- Average Trips Per Day is __25,714.__
+- The Total Number of Trips is __2,011,218.__
+- Average Distance Per Trip is __2.87min.__
+- The Total Number of Passengers is __2,749,9335.__
+- Average Trips Per Day is __27,551.__
 - Total Number of Trip Zones is __262.__
 - Average Fare Per Trip is __$12.__
-- Total Revenue is __$29.83M.__
+- Total Revenue is __$29.49M.__
 
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2017.jpg" width="500">
 - **Taxi Trips Trend and Revenue Trend In (Jan) 2017:**
@@ -212,5 +212,5 @@ From the analysis, i made the following Key findings below:
 - __Implications for Planning:__ Studying the fluctuations in trip volumes and revenue trends for January 2017 can inform operational planning and resource allocation for taxi services in subsequent months.
 
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2018.jpg" width="500">
-- **Taxi Trips Trend and Revenue Trend In (April - June) 2018:**
+- **Taxi Trips Trend and Revenue Trend In (April 28- June 8) 2018:**
 - In this analysis
