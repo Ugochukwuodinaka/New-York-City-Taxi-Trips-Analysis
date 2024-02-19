@@ -161,9 +161,9 @@ Below is a table that displays the data_dictionary which explians the column hea
 15. Added a custom column __"payment_details"__ in both tables which also extracts the payment type code from the __"payment_type"__ column and converts it to the actual payment type using the "If function" which will help us identify actual payment types used in paying for taxi fares.
 16. Made sure no columns in both tables have null value cells an that all columns report a column quality of __100%__ valid.
 17. Reordered all columns in both tables appropriately.
-18. After cleaning and transforming these tables, the data rows of the 2017_taxi_trips.csv dropped from __1,048,574__ rows to __1,013,190__ rows, while the 2018_taxi_trips.csv data rows dropped from __1,046,977__ rows to __998,028__ rows of data.
+18. After cleaning and transforming these tables, the data rows of the 2017_taxi_trips.csv dropped from __1,048,574__ rows to __1,013,190__ rows, while the 2018_taxi_trips.csv data rows dropped from __1,046,977__ rows to __1,018,226__ rows of data.
 19. Merged both tables into a single table.
-20. Added a new column __"Trips_ID"__ which indexed all the trips merged from __1__ to __2,011,218 million__.
+20. Added a new column __"Trips_ID"__ which indexed all the trips merged from __1__ to __2,031,416 million__.
 
 
 ## Data Model Design
@@ -193,13 +193,13 @@ Model View                                                                      
 
 ### Project Analysis:
 From the analysis, i made the following Key findings below:
-- The Total Number of Trips is __2,011,218.__
-- Average Distance Per Trip is __2.87min.__
-- The Total Number of Passengers is __2,749,9335.__
-- Average Trips Per Day is __27,551.__
-- Total Number of Trip Zones is __262.__
+- The Total Number of Trips is __2,031,416.__
+- Average Distance Per Trip is __2.88min.__
+- The Total Number of Passengers is __2,776,908.__
+- Average Trips Per Day is __27,828.__
+- Total Number of Trip Zones is __265.__
 - Average Fare Per Trip is __$12.__
-- Total Revenue is __$29.49M.__
+- Total Revenue is __$29.83M.__
 
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2017.jpg" width="500">
 - **Taxi Trips Trend and Revenue Trend In (Jan) 2017:**
