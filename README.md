@@ -234,3 +234,11 @@ From the analysis, i made the following Key findings below:
 - __Implications for Strategic Planning:__ The analysis of total trips by vendors provides valuable insights for strategic planning and decision-making within both Verifone Inc and Creative Mobile Technologies. Verifone Inc can leverage its market dominance to further consolidate its position, invest in service enhancements, and explore expansion opportunities to maintain its competitive edge.
 Creative Mobile Technologies, on the other hand, may seek to increase its market share by identifying and capitalizing on niche markets, improving service offerings, and implementing targeted marketing strategies to attract more customers.
 - __Customer Preference and Satisfaction:__ The higher number of trips attributed to Verifone Inc may indicate a higher level of customer preference and satisfaction with its services, reflecting positively on factors such as service reliability, convenience, and overall customer experience.
+
+
+- <img src="images/Total_Trips_By_Payment_Type.jpg" width="250">
+- **Total Trips By Payment Type:**
+- Below are insighte i generated for the Total Trips By Payment Type:
+- __Preference for Credit Card Payments:__ The analysis reveals that credit card payments are the most preferred payment method for taxi trips, accounting for a total of 1,092,527 trips.The dominance of credit card payments suggests a growing trend towards cashless transactions, driven by factors such as convenience, security, and rewards offered by credit card companies.
+- __Significance of Cash Payments:__ Despite the popularity of credit card payments, cash payments still hold a considerable share of the market, totaling 938,889 trips. Cash payments remain relevant due to factors such as customer preference, accessibility, and convenience, particularly for individuals without access to credit cards or those who prefer to manage their expenses in cash.
+- __Diverse Payment Preferences:__ The coexistence of credit card and cash payments reflects the diverse preferences and needs of taxi passengers, who may choose their preferred payment method based on factors such as personal financial habits, accessibility to banking services, and convenience.
