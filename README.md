@@ -249,7 +249,22 @@ From the analysis, i made the following Key findings below:
 - Brooklyn and Queens follow closely behind Manhattan, with 586,543 and 578,673 trips, respectively. These boroughs also have considerable populations and economic activity, contributing to their relatively high number of taxi trips. The diverse neighborhoods and attractions in Brooklyn and Queens, along with residential areas and commercial centers, likely drive demand for taxi services.
 - The Bronx records a lower number of taxi trips compared to Manhattan, Brooklyn, and Queens, with 118,046 trips. While the Bronx may have fewer tourist attractions and commercial districts compared to other boroughs, it still represents a significant market for taxi services, serving residents and visitors alike.
 - Staten Island and EWR (Newark Liberty International Airport) have the lowest number of taxi trips among the boroughs, with 585 and 108 trips, respectively. Staten Island's lower population density and limited public transportation options contribute to fewer taxi trips within the borough. EWR's low number of taxi trips is expected, as it primarily serves as an airport with taxi services catering to travelers arriving or departing from the airport.
-- Overall, this analysis highlights the varying levels of demand for taxi services across different areas of New York City. 
+
+- <img src="images/Top6_Trips_Zones.jpg" width="250">
+- **Top 6 Trips Zones:**
+- This analysis showcases and gives insight in to the top 6 trips zones. The analysis details below:
+- __East Harlem North Dominance:__ East Harlem North emerges as the top trips zone with 69,116 trips, indicating a high demand for taxi services in this area. Factors such as residential density, commercial activity, and transportation accessibility likely contribute to the popularity of this zone for taxi trips.
+- __Central Harlem North Close Second:__ Central Harlem North closely follows East Harlem North with 67,322 trips, showcasing a similar level of demand for taxi services. The proximity to cultural attractions, dining options, and transportation hubs in Central Harlem North likely drives the high volume of trips in this zone.
+- __Astoria's Strong Performance:__ Astoria ranks third among the top trips zones with a total of 63,712 trips, indicating significant demand for taxi services in this neighborhood. Astoria's diverse population, vibrant nightlife, and proximity to transportation hubs contribute to its popularity as a taxi destination.
+- __Central Harlem and Jackson Heights Appeal:__ Central Harlem and Jackson Heights follow closely behind with 60,523 and 56,728 trips, respectively. These neighborhoods are known for their cultural diversity, residential communities, and commercial activity, attracting both residents and visitors who rely on taxi services for transportation.
+- __Park Slope's Moderate Performance:__ Park Slope rounds out the top 6 trips zones with 49,809 trips, showcasing a slightly lower volume compared to the top-ranking zones. However, Park Slope's reputation as a desirable residential neighborhood with trendy shops, restaurants, and parks likely contributes to its consistent demand for taxi services.
+
+
+- <img src="images/Top6_Trips_Zones.jpg" width="250">
+- **Top 6 Trips Zones:**
+- This analysis
+
+
 
 
 
