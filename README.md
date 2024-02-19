@@ -213,4 +213,19 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2018.jpg" width="500">
 - **Taxi Trips Trend and Revenue Trend In (April 28- June 8) 2018:**
-- In this analysis
+- In this analysis of taxi trips trend and revenue trend for between April 28 - June 8, 2017, the following insights was drawn:
+- __Overall Trend:__ Over the period from April 28th to June 8th, 2018, both the total number of taxi trips and the total revenue generated exhibit fluctuations, reflecting changes in demand and economic factors over time.
+- __Weekend Peaks:__ Consistently, weekends (Saturdays and Sundays) show higher trip volumes and revenue compared to weekdays. This pattern suggests increased leisure travel and recreational activities during weekends, contributing to higher demand for taxi services.
+- __Holiday Impact:__ Notable peaks in both trip volume and revenue coincide with holidays such as Memorial Day weekend (May 26th-28th) and June 1st, suggesting heightened travel activity during holiday periods.
+- __Mid-Week Patterns:__ While weekdays generally exhibit lower trip volumes compared to weekends, certain weekdays, particularly Thursdays and Fridays, show increased trip activity and revenue, possibly due to factors such as commuting, social events, and nightlife.
+- __End-of-Month Trends:__ Towards the end of the month (May 31st - June 8th), there is a gradual decline in both trip volume and revenue, indicating a potential shift in travel patterns or economic conditions as the month progresses.
+- __Economic Indicators:__ Fluctuations in trip volume and revenue may also be influenced by broader economic factors, such as consumer spending trends, employment levels, and tourism activity, which impact demand for transportation services.
+- __Operational Considerations:__ Understanding the trends and patterns in taxi trips and revenue during this period can inform operational decisions for taxi operators, including fleet management, staffing, pricing strategies, and promotional campaigns.
+- __Revenue Forecasting:__ By analyzing historical trip data and revenue trends, taxi operators can develop forecasting models to anticipate future revenue streams, enabling proactive planning and resource allocation.
+- __Customer Behavior Insights:__ Analyzing trip volumes and revenue patterns can provide insights into customer behavior, preferences, and travel habits, guiding service enhancements and marketing strategies to better meet customer needs and expectations.
+
+
+
+
+
+
