@@ -231,14 +231,27 @@ From the analysis, i made the following Key findings below:
 - __Dominance of Verifone Inc:__ Verifone Inc emerges as the dominant player in the taxi industry, with a significantly higher total number of trips compared to Creative Mobile Technologies. The total trips of 1,668,809 by Verifone Inc represent approximately 82.15% of the total market share, indicating a strong presence and widespread adoption of Verifone's services within the industry.
 - __Market Share Disparity:__ The disparity in total trips between Verifone Inc and Creative Mobile Technologies highlights the uneven distribution of market share within the taxi industry. Verifone Inc's overwhelming market dominance suggests factors such as brand recognition, service reliability, and market penetration, which may contribute to its larger customer base and trip volumes.
 - __Competitive Landscape:__ Creative Mobile Technologies, while holding a smaller market share, still maintains a presence in the industry with a total of 362,607 trips. Although its market share percentage of 17.85% is significantly lower than Verifone Inc's, Creative Mobile Technologies still serves as a viable competitor in the market, catering to a niche segment or specific customer base.
-- __Implications for Strategic Planning:__ The analysis of total trips by vendors provides valuable insights for strategic planning and decision-making within both Verifone Inc and Creative Mobile Technologies. Verifone Inc can leverage its market dominance to further consolidate its position, invest in service enhancements, and explore expansion opportunities to maintain its competitive edge.
-Creative Mobile Technologies, on the other hand, may seek to increase its market share by identifying and capitalizing on niche markets, improving service offerings, and implementing targeted marketing strategies to attract more customers.
 - __Customer Preference and Satisfaction:__ The higher number of trips attributed to Verifone Inc may indicate a higher level of customer preference and satisfaction with its services, reflecting positively on factors such as service reliability, convenience, and overall customer experience.
 
 
 - <img src="images/Total_Trips_By_Payment_Type.jpg" width="250">
 - **Total Trips By Payment Type:**
-- Below are insighte i generated for the Total Trips By Payment Type:
+- Below are insights i generated for the Total Trips By Payment Type:
 - __Preference for Credit Card Payments:__ The analysis reveals that credit card payments are the most preferred payment method for taxi trips, accounting for a total of 1,092,527 trips.The dominance of credit card payments suggests a growing trend towards cashless transactions, driven by factors such as convenience, security, and rewards offered by credit card companies.
 - __Significance of Cash Payments:__ Despite the popularity of credit card payments, cash payments still hold a considerable share of the market, totaling 938,889 trips. Cash payments remain relevant due to factors such as customer preference, accessibility, and convenience, particularly for individuals without access to credit cards or those who prefer to manage their expenses in cash.
 - __Diverse Payment Preferences:__ The coexistence of credit card and cash payments reflects the diverse preferences and needs of taxi passengers, who may choose their preferred payment method based on factors such as personal financial habits, accessibility to banking services, and convenience.
+
+
+- <img src="images/Total_Trips_By_Borough.jpg" width="250">
+- **Total Trips By Borough:**
+- In the Total Trips By Borough, i came up with some insights:
+- Manhattan emerges as the borough with the highest number of taxi trips, recording 747,461 trips. This result is not surprising given Manhattan's status as a major commercial, financial, and tourist hub in New York City. The high volume of taxi trips in Manhattan reflects the bustling activity and dense population within the borough, with significant demand for transportation services.
+- Brooklyn and Queens follow closely behind Manhattan, with 586,543 and 578,673 trips, respectively. These boroughs also have considerable populations and economic activity, contributing to their relatively high number of taxi trips. The diverse neighborhoods and attractions in Brooklyn and Queens, along with residential areas and commercial centers, likely drive demand for taxi services.
+- The Bronx records a lower number of taxi trips compared to Manhattan, Brooklyn, and Queens, with 118,046 trips. While the Bronx may have fewer tourist attractions and commercial districts compared to other boroughs, it still represents a significant market for taxi services, serving residents and visitors alike.
+- Staten Island and EWR (Newark Liberty International Airport) have the lowest number of taxi trips among the boroughs, with 585 and 108 trips, respectively. Staten Island's lower population density and limited public transportation options contribute to fewer taxi trips within the borough. EWR's low number of taxi trips is expected, as it primarily serves as an airport with taxi services catering to travelers arriving or departing from the airport.
+- Overall, this analysis highlights the varying levels of demand for taxi services across different areas of New York City. 
+
+
+
+
+ 
