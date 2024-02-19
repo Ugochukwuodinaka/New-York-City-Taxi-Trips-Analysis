@@ -260,13 +260,26 @@ From the analysis, i made the following Key findings below:
 - __Park Slope's Moderate Performance:__ Park Slope rounds out the top 6 trips zones with 49,809 trips, showcasing a slightly lower volume compared to the top-ranking zones. However, Park Slope's reputation as a desirable residential neighborhood with trendy shops, restaurants, and parks likely contributes to its consistent demand for taxi services.
 
 
-- <img src="images/Top6_Trips_Zones.jpg" width="250">
-- **Top 6 Trips Zones:**
-- This analysis
+- <img src="images/Trips_By_DayOfWeek.jpg" width="250">
+- **Trips By Days of The Week:**
+- From my analysis on Trips By the Days of the Wwek, i found these key insights:
+- __Weekend Dominance:__ Sunday emerges as the day with the highest number of taxi trips, totaling 313,636 trips, closely followed by Friday with 311,629 trips, and Saturday with 297,812 trips. This pattern indicates a trend of increased travel and transportation demand during weekends, likely driven by recreational activities, leisure travel, and social outings.
+- __Weekday Trends:__ Weekdays, on the other hand, exhibit slightly lower trip volumes compared to weekends. Thursday ranks fourth with 286,450 trips, followed by Tuesday with 276,393 trips, Monday with 274,772 trips, and Wednesday with 270,724 trips. This suggests that weekdays experience relatively stable but slightly lower demand for taxi services compared to weekends, influenced by factors such as commuting, work-related travel, and errands.
+- __Customer Behavior Insights:__ The higher demand for taxi services on weekends may reflect shifts in consumer behavior and lifestyle preferences, with individuals opting for taxis as a convenient and flexible mode of transportation for social activities, events, and outings. 
+- __Traffic and Events Influence:__ Factors such as traffic congestion, special events, and cultural activities may also influence daily trip volumes. For instance, increased traffic during weekdays may impact trip durations and availability, while major events or festivals occurring on weekends may lead to spikes in demand for taxi services in specific areas.
+- __Operational Considerations:__ Taxi operators can use data on trips by days of the week to optimize driver schedules, pricing strategies, and service coverage to match fluctuating demand patterns.
+- __Urban Mobility Planning:__ Policymakers and urban planners can use insights from daily trip volumes to inform transportation infrastructure planning and development. This includes optimizing public transportation schedules, improving road conditions, and implementing policies to manage traffic flow and congestion, ultimately enhancing urban mobility and accessibility for residents and visitors alike.
 
 
+- <img src="images/Trips_By_Time_Of_Day.jpg" width="400">
+- **Trips By Time of The Day:**
+- This analysis opens-up a clear view into the volume of trips embarked by taxis in relationship to the time of the day, and wonderful insights can be accessed here:
+- __Nighttime Dominance:__ Night emerges as the time of day with the highest number of taxi trips, totaling 536,556 trips. This pattern suggests a significant demand for taxi services during nighttime hours, likely driven by factors such as nightlife activities, social events, and late-night commuting.
+- __Morning Rush:__ Morning ranks second in terms of trip volume, with 442,310 trips, indicating a substantial demand for taxis during the morning rush hour. Commuters, workers, and students likely rely on taxis for transportation to work, school, and other daytime destinations during this peak period.
+- __Evening Activity:__ Evening follows closely behind with 401,717 trips, reflecting continued demand for taxi services during the evening hours. This time period may encompass a range of activities, including dining out, entertainment, and leisure travel, contributing to the steady flow of taxi trips.
+- __Afternoon Lull:__ Afternoon experiences slightly lower trip volumes compared to morning and evening, with 392,141 trips. This time period may represent a lull in taxi demand as individuals are engaged in work, errands, or other daytime activities, resulting in fewer transportation needs.
+- __Early Morning Usage:__ Early morning ranks last in terms of trip volume, with 258,692 trips. While still significant, this lower demand during the early hours of the morning may reflect a quieter period with fewer travelers and commuters requiring taxi services.
+- __Operational Considerations:__ Taxi operators can use insights from trips by time of day to optimize driver schedules, fleet deployment, and pricing strategies to match fluctuating demand patterns throughout the day..
+- __Urban Mobility Planning:__ Urban planners and policymakers can leverage data on trip volumes by time of day to inform transportation infrastructure planning and management. 
 
 
-
-
- 
