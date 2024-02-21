@@ -283,3 +283,14 @@ From the analysis, i made the following Key findings below:
 - __Urban Mobility Planning:__ Urban planners and policymakers can leverage data on trip volumes by time of day to inform transportation infrastructure planning and management. 
 
 
+- <img src="images/Most_Popular_Pickup_%26_Dropoff_Boroughs.jpg" width="250">
+- **Most Popular Pickup and Drop-oof Boroughs:**
+- This analysis showcases the top 3 most popular boroughs by the volume of daily taxi trips as seen below:
+- __Manhattan's Dominance:__ Manhattan emerges as the most popular pickup and drop-off borough, with 747,461 trips recorded. This dominance is not surprising given Manhattan's status as a major commercial, cultural, and tourist hub within New York City. The borough's dense population, iconic landmarks, and extensive transportation network contribute to its high demand for taxi services.
+- __Brooklyn's Significant Role:__ Brooklyn follows closely behind Manhattan with 586,543 trips, showcasing its significance as both a pickup and drop-off location. Brooklyn's diverse neighborhoods, cultural attractions, and growing population contribute to its popularity as a destination for taxi trips. Additionally, Brooklyn's proximity to Manhattan and its status as a residential hub further drive demand for transportation services.
+- __Queens' Substantial Demand:__ Queens ranks third in terms of popularity for both pickup and drop-off locations, with 578,673 trips. As one of the largest boroughs in New York City, Queens offers a mix of residential neighborhoods, commercial centers, and cultural attractions. Its diverse population and economic activity contribute to the steady demand for taxi services within the borough.
+
+
+- <img src="images/Most_Popular_Pickup_%26_Dropoff_Boroughs.jpg" width="450">
+- **Average Number of Trips By Day Trend:**
+- This analysis
