@@ -1,6 +1,15 @@
 # New York City Taxi Trips (2017-2018) Analysis
 ![](images/New_York_Taxi_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+
+
 
 ## Project Overview
 
@@ -83,7 +92,7 @@ and week.
 - The Taxi Zones Map files contain a map of New York City with divisions for the 265 locations that can be used to create custom map visuals in Power BI (TopoJSON) or 
 Tableau (Shapefile).
 
-The 2 key tables that contains the taxi trips data are the 2017_taxi_trips.csv and 2018_taxi_trips.csv. Both contains same number columns and column names. With both table sizes over 200mb, it was too large to upload to github.
+This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The 2 key tables that contains the taxi trips data are the 2017_taxi_trips.csv and 2018_taxi_trips.csv. Both contains same number columns and column names. With both table sizes over 200mb, it was too large to upload to github.
 
 Below is a table that displays the data_dictionary which explians the column headers in the taxi trips data 2017 and 2018, and also displays and explains the taxi_zones and the 454_calender columns for a better understanding of this dataset:
 
@@ -185,10 +194,10 @@ Model View                                                                      
 
 
 ## Visualization in Power BI:
-#### Report 1
+#### Report View 1
 ![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard1.jpg)
 
-#### Report 2
+#### Report View 2
 ![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard2.jpg)
 
 ### Project Analysis:
