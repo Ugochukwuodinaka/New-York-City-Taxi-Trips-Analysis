@@ -293,4 +293,10 @@ From the analysis, i made the following Key findings below:
 
 - <img src="images/Average_No_Of_Trips_By_Day.jpg" width="450">
 - **Average Number of Trips By Day Trend:**
-- This analysis
+- This analysis shows insights of the Average Number of Trips By Day Trend:
+- __Weekend Dominance:__ Friday emerges as the day with the highest average number of trips per day, with 15,581.45 trips. This trend indicates a surge in taxi demand at the end of the workweek, likely driven by social activities, nightlife, and increased travel.
+- __Strong Sunday and Saturday Performance:__ Sunday and Saturday follow closely behind Friday in terms of average daily trips, with 14,933.05 and 14,890.60 trips, respectively. The high demand for taxi services on weekends reflects leisure travel, recreational outings, and relaxation activities undertaken by residents and visitors.
+- __Midweek Variations:__ While weekdays experience slightly lower average daily trip volumes compared to weekends, there are notable variations among the weekdays. Thursday ranks fourth with 14,322.50 trips, followed by Tuesday with 12,563.32 trips, Wednesday with 12,305.64 trips, and Monday with 11,946.61 trips.
+- __Monday's Lower Performance:__ Monday exhibits the lowest average number of trips per day among the weekdays, likely reflecting a slower start to the workweek following the weekend. Reduced travel for work-related purposes and fewer social activities contribute to the lower demand for taxi services on Mondays.
+- __Implications for Service Planning:__ Taxi operators can use insights from the average number of trips by day trend to adjust service levels, optimize driver schedules, and allocate resources based on fluctuating demand patterns throughout the week. By aligning service provision with peak demand periods, operators can enhance service quality and improve overall operational efficiency.
+
