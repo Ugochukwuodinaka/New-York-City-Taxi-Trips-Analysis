@@ -312,3 +312,5 @@ From the analysis, i made the following Key findings below:
 - __Afternoon Trends Across the Week:__ Afternoons throughout the week show relatively stable demand for taxi services, with Sunday afternoon recording the highest number of trips at 60,288. This indicates that individuals utilize taxis for various daytime activities, including shopping, errands, and leisure outings, across all days of the week.
 - __Operational Considerations:__ Taxi operators can use insights from the busiest time and days of the week trend to optimize fleet deployment, adjust driver schedules, and allocate resources to meet fluctuating demand patterns. By aligning operations with peak demand periods, operators can improve service efficiency and customer satisfaction.
 
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report on New York City Taxi Trips (2017-2018) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiM2FiNTRkNWItNDYxNC00NjUwLWE2NzAtOTVlZTAyM2QyN2UyIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
