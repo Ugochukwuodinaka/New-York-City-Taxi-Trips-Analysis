@@ -300,3 +300,15 @@ From the analysis, i made the following Key findings below:
 - __Monday's Lower Performance:__ Monday exhibits the lowest average number of trips per day among the weekdays, likely reflecting a slower start to the workweek following the weekend. Reduced travel for work-related purposes and fewer social activities contribute to the lower demand for taxi services on Mondays.
 - __Implications for Service Planning:__ Taxi operators can use insights from the average number of trips by day trend to adjust service levels, optimize driver schedules, and allocate resources based on fluctuating demand patterns throughout the week. By aligning service provision with peak demand periods, operators can enhance service quality and improve overall operational efficiency.
 
+
+
+- <img src="images/Busiest_Days_Oof_The_Week_%26_Time_Of_The_Day.jpg" width="550">
+- **Busiest Time and Days of The Week Trend:**
+- This is an aanalysis of the Busiest Time and Days of the Week Trend, you can have a look at the insights i came up with for this below:
+- __Weekend Evenings Dominate:__ Weekend evenings, particularly Sunday and Saturday nights, emerge as the busiest times for taxi trips, with 60,288 and 57,064 trips, respectively. This trend aligns with typical leisure and social activities, as individuals often engage in nightlife, dining out, and entertainment during weekends.
+- __Early Morning Surge on Weekends:__ Early mornings on weekends, especially Sunday, experience a significant surge in taxi trips, with 86,590 trips recorded. This spike likely corresponds to travel for early morning activities such as airport drop-offs, weekend getaways, or work shifts, highlighting the importance of taxi services during non-traditional hours.
+- __Friday Mornings and Nights:__ Friday mornings and nights also exhibit high taxi trip volumes, with 70,057 trips in the morning and 93,157 trips at night. The morning rush likely reflects commuters and travelers heading to work or starting weekend travel, while the evening surge may be attributed to people beginning their weekend festivities.
+- __Weekday Evenings Show Consistent Demand:__ Evenings on weekdays, particularly Thursday and Wednesday nights, demonstrate consistent demand for taxi services, with 59,775 and 56,586 trips, respectively. This suggests that individuals continue to rely on taxis for transportation after work or evening activities during the workweek.
+- __Afternoon Trends Across the Week:__ Afternoons throughout the week show relatively stable demand for taxi services, with Sunday afternoon recording the highest number of trips at 60,288. This indicates that individuals utilize taxis for various daytime activities, including shopping, errands, and leisure outings, across all days of the week.
+- __Operational Considerations:__ Taxi operators can use insights from the busiest time and days of the week trend to optimize fleet deployment, adjust driver schedules, and allocate resources to meet fluctuating demand patterns. By aligning operations with peak demand periods, operators can improve service efficiency and customer satisfaction.
+
