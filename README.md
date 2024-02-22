@@ -8,6 +8,7 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations For Enhancing New York City Taxi Service](#recommendations-for-enhancing-new-york-city-taxi-service)
 
 
 
@@ -323,3 +324,15 @@ From the analysis, i made the following Key findings below:
 
 ## Visuals in Power BI Report:
 You can view and interact with this dashboard report on New York City Taxi Trips (2017-2018) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiM2FiNTRkNWItNDYxNC00NjUwLWE2NzAtOTVlZTAyM2QyN2UyIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+
+## Recommendations For Enhancing New York City Taxi Service:
+- __Improve Service Quality:__ Implement rigorous training programs for taxi drivers to enhance professionalism, customer service skills, and knowledge of city routes. Encourage drivers to maintain clean and well-maintained vehicles to provide a comfortable and safe travel experience for passengers.
+- __Enhance Technology Integration:__ Invest in advanced booking and dispatch systems, mobile apps, and GPS navigation tools to streamline taxi bookings, reduce waiting times, and improve overall service efficiency.
+- __Offer Personalized Services:__ Explore innovative service offerings such as luxury vehicle options, pet-friendly rides, and wheelchair-accessible taxis to cater to diverse customer needs and preferences. 
+- __Implement Dynamic Pricing Strategies:__ Utilize dynamic pricing models to adjust fares based on demand and supply dynamics, traffic conditions, and time of day. Offer discounts, promotions, and loyalty programs to incentivize repeat usage and attract new customers during off-peak hours.
+- __Expand Service Coverage:__ Extend taxi service coverage to underserved areas, suburban neighborhoods, and transportation hubs such as airports, train stations, and major attractions. 
+- __Promote Sustainability Initiatives:__ Introduce eco-friendly vehicle options, such as electric or hybrid taxis, to reduce environmental impact and contribute to sustainability goals.
+- __Enhance Safety and Security Measures:__ Strengthen safety protocols and security measures to ensure the well-being of passengers and drivers. 
+- __Engage in Community Outreach:__ Foster positive relationships with local communities by participating in community events, sponsoring neighborhood initiatives, and supporting charitable causes.
+- __Provide Transparency and Accountability:__ Establish clear and transparent pricing policies, fare structures, and service standards to build trust and confidence among passengers.
+- __Collaborate with Stakeholders:__ Collaborate with city authorities, transportation agencies, and industry stakeholders to address regulatory challenges, streamline licensing processes, and promote innovation in the taxi industry. 
