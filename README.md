@@ -136,6 +136,15 @@ Below is a table that displays the data_dictionary which explians the column hea
 |                          |DayName                  |The name of the day corresponding to the date (e.g., Monday, Tuesday, etc.)|
 
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Modelling
+3. Data Visualiziation
+4. Descriptive Analytics
+5. Critical Thinking and Problem Solving
+6. Communication and Reporting
+
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -336,3 +345,6 @@ You can view and interact with this dashboard report on New York City Taxi Trips
 - __Engage in Community Outreach:__ Foster positive relationships with local communities by participating in community events, sponsoring neighborhood initiatives, and supporting charitable causes.
 - __Provide Transparency and Accountability:__ Establish clear and transparent pricing policies, fare structures, and service standards to build trust and confidence among passengers.
 - __Collaborate with Stakeholders:__ Collaborate with city authorities, transportation agencies, and industry stakeholders to address regulatory challenges, streamline licensing processes, and promote innovation in the taxi industry. 
+
+
+## Thank You For Following Through!
