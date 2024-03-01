@@ -191,16 +191,19 @@ The data required for this analysis are located in 2 tables. Therefore, data mod
 
 - The Model View displays a view of the __2017_taxi_trips_cleaned__ (fact) table, the __taxi_zones__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  I would have uploaded the full Power BI project document here, but unfortunaly, it is too large.
 
-  
-Power Query Cleaned Data View                                                      |                                
+**Power Editor View**
+
+Cleaned Data Power Query Editor Screenshot                                         |                                
 :---------------------------------------------------------------------------------:|
-![](images/Power_Query_Editor_Cleaned_Screenshot.png)                                     |        
+![](images/Power_Query_Editor_Cleaned_Screenshot.png)                              |        
 
 
-  
-Model View                                                                         |                                
-:---------------------------------------------------------------------------------:|
+**Model View Screenshot**
+
+Model View                                                                        |                                
+:--------------------------------------------------------------------------------:|
 ![](images/Model_View_Screenshot.png)                                             |        
+
 
 
 ## Visualization in Power BI:
