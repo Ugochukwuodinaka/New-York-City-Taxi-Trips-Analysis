@@ -28,6 +28,7 @@ We’ve been collecting trip data for specific months in 2017 and 2018, but with
 
 ### Objectives:
 This is a challenge!
+<br />
 The raw data has some issues, so we'll need to make the following adjustments and assumptions to clean and prep the data:
 - Let’s stick to trips that were NOT sent via “store and forward”
 - I’m only interested in street-hailed trips paid by card or cash, with a standard rate
@@ -384,4 +385,4 @@ You can view and interact with this dashboard report on New York City Taxi Trips
 <br />
 
 ## Thank You For Following Through!
-![](images/Thank%20you.jpg)
+![](images/Thank_you.jpg)
