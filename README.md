@@ -27,6 +27,7 @@ This a Project Analysis and Visualization challenge!
 We’ve been collecting trip data for specific months in 2017 and 2018, but without a proper analyst we haven’t been able to put it to good use. That's where you come in!
 
 ### Objectives:
+This is a challenge!
 The raw data has some issues, so we'll need to make the following adjustments and assumptions to clean and prep the data:
 - Let’s stick to trips that were NOT sent via “store and forward”
 - I’m only interested in street-hailed trips paid by card or cash, with a standard rate
@@ -97,7 +98,7 @@ Tableau (Shapefile).
 
 This dataset was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). The 2 key tables that contains the taxi trips data are the 2017_taxi_trips.csv and 2018_taxi_trips.csv. Both contains same number columns and column names. With both table sizes over 200mb, it was too large to upload to github.
 
-Below is a table that displays the data_dictionary which explians the column headers in the taxi trips data 2017 and 2018, and also displays and explains the taxi_zones and the 454_calender columns for a better understanding of this dataset:
+Below is a table that displays the data_dictionary which explains the column headers in the taxi trips data 2017 and 2018, explains the taxi_zones, and also expalins the 454_calender table fields for a better understanding of this dataset:
 
 | Table                    | Field                    | Description                            |            
 |:------------------------ |:------------------------ |:-------------------------------------- |
@@ -193,7 +194,8 @@ Below is a table that displays the data_dictionary which explians the column hea
 The data required for this analysis are located in 2 tables. Therefore, data modelling is required. A star Schema is designed with the __2017_taxi_trips_cleaned__ (merged) table representing the fact table containing quantitative measures and details, and to which the __taxi_zones__ dimension table is modelled or connected to, using the __DOLocationID__  and __LocationID__ fields in both tables. 
 
 
-- The Model View displays a view of the __2017_taxi_trips_cleaned__ (fact) table, the __taxi_zones__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.  I would have uploaded the full Power BI project document here, but unfortunaly, it is too large.
+- The Model View displays a view of the __2017_taxi_trips_cleaned__ (fact) table, the __taxi_zones__ (dimension) table, and the __Data Analysis Expression__ (DAX) standing alone.
+
 
 **Power Query Editor View**
 
@@ -382,3 +384,4 @@ You can view and interact with this dashboard report on New York City Taxi Trips
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank%20you.jpg)
