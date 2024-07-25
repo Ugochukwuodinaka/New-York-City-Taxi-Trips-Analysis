@@ -143,8 +143,9 @@ Below is a table that displays the data_dictionary which explians the column hea
 2. Data Modelling
 3. Data Visualiziation
 4. Descriptive Analytics
-5. Critical Thinking and Problem Solving
-6. Communication and Reporting
+5. Analytical and Critical Thinking
+6. Problem Solving
+7. Communication and Reporting
 <br />
 
 ### Tools Used
@@ -233,135 +234,131 @@ From the analysis, i made the following Key findings below:
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2017.jpg" width="500">
 
 - **Taxi Trips Trend and Revenue Trend In (Jan) 2017:**
-- In this analysis of taxi trips trend and revenue trend for in january, 2017, the following insights was drawn:
-- __Monthly Trend:__ Throughout January 2017, there is a clear fluctuation in the total number of taxi trips, ranging from a low of 9,496 trips on January 31st to a high of 42,781 trips on January 28th. Overall, there seems to be a pattern of higher trip volumes during weekends and lower volumes during weekdays, with notable peaks observed on weekends (e.g., January 14th, 21st, and 28th).
-- __Revenue Trend:__ The total revenue generated also exhibits variability throughout the month, reflecting the fluctuations in trip volumes. Revenue peaks align with higher trip volumes, indicating that revenue is positively correlated with the number of taxi trips.
-- __Peak Periods:__ Weekends, particularly Saturdays and Sundays, consistently show higher trip volumes and revenue compared to weekdays. This suggests increased demand for taxi services during weekends, possibly due to leisure activities, events, or tourism. The first weekend of the month (January 7th-8th) marks a significant increase in both trip volume and revenue, indicating a strong start to the month.
-- __Mid-Month Surge:__ Around the middle of the month (January 13th-14th), there is a notable surge in both trip volume and revenue, with January 14th recording the highest number of trips and revenue for the month. This spike could be attributed to events, holidays, or special occasions occurring during this period.
-- __End of Month Decline:__ Towards the end of the month, there is a decline in both trip volume and revenue, with January 31st showing the lowest numbers. This decline may be influenced by factors such as reduced consumer spending post-holiday season or specific events affecting travel patterns.
-- __Implications for Planning:__ Studying the fluctuations in trip volumes and revenue trends for January 2017 can inform operational planning and resource allocation for taxi services in subsequent months.
+- The following insight can be drawn from this analysis of taxi trips trend and revenue trend for January 2017.
+   - __Monthly Trend:__ In January 2017, there is clearly a swing from a low of 9,496 on 31 January to 42,781 on 28 January. If there is a general trend, it seems that the number of trips is higher during weekends as compared to weekdays. There are specific peaks occurring on weekends like 14, 21, and 28 January.
+   - __Revenue Trend:__ The total revenue generated also varies throughout the month, in correspondence with the trip volumes. Peaks in revenues match higher volumes of trips, indicating that revenues are positively correlated with the number of taxi trips.
+   - __Peak Periods:__ Weekends show a considerably higher volume of trips and revenue compared with weekdays. That might mean that the demand for taxis is higher in weekends, maybe due to leisure activities, events, or tourism. The first weekend, January 7th–8th, surged forward both in trip volume and revenue—a very good indication of how the month will turn out.
+   - __Mid-Month Surge__ : There is an observable surge in the volume and revenue of trips during the middle of the month; January 14th reflected both the highest number of trips and revenues for the entire month. It could relate to events, holidays, or special occasions.
+   - __End of Month Decline__: There is a downward trend in both the number of trips and revenue towards the end of the month, with January 31st being the lowest. This may be influenced by reduced consumer spending post-holiday season or by certain events affecting travel patterns.
+   - __Implications for Planning:__ The case study of trends in trip volumes and revenue for January 2017 would therefore turn out to be immense help in operational planning and resource allocation by taxi services in the subsequent months.
 <br />
 <br />
 
 - <img src="images/Taxi_Trips_Trend_%26_Revenue_Trend_2018.jpg" width="500">
 
 - **Taxi Trips Trend and Revenue Trend In (April 28- June 8) 2018:**
-- In this analysis of taxi trips trend and revenue trend for between April 28 - June 8, 2017, the following insights was drawn:
-- __Overall Trend:__ Over the period from April 28th to June 8th, 2018, both the total number of taxi trips and the total revenue generated exhibit fluctuations, reflecting changes in demand and economic factors over time.
-- __Weekend Peaks:__ Consistently, weekends (Saturdays and Sundays) show higher trip volumes and revenue compared to weekdays. This pattern suggests increased leisure travel and recreational activities during weekends, contributing to higher demand for taxi services.
-- __Holiday Impact:__ Notable peaks in both trip volume and revenue coincide with holidays such as Memorial Day weekend (May 26th-28th) and June 1st, suggesting heightened travel activity during holiday periods.
-- __Mid-Week Patterns:__ While weekdays generally exhibit lower trip volumes compared to weekends, certain weekdays, particularly Thursdays and Fridays, show increased trip activity and revenue, possibly due to factors such as commuting, social events, and nightlife.
-- __End-of-Month Trends:__ Towards the end of the month (May 31st - June 8th), there is a gradual decline in both trip volume and revenue, indicating a potential shift in travel patterns or economic conditions as the month progresses.
-- __Economic Indicators:__ Fluctuations in trip volume and revenue may also be influenced by broader economic factors, such as consumer spending trends, employment levels, and tourism activity, which impact demand for transportation services.
-- __Operational Considerations:__ Understanding the trends and patterns in taxi trips and revenue during this period can inform operational decisions for taxi operators, including fleet management, staffing, pricing strategies, and promotional campaigns.
-- __Revenue Forecasting:__ By analyzing historical trip data and revenue trends, taxi operators can develop forecasting models to anticipate future revenue streams, enabling proactive planning and resource allocation.
-- __Customer Behavior Insights:__ Analyzing trip volumes and revenue patterns can provide insights into customer behavior, preferences, and travel habits, guiding service enhancements and marketing strategies to better meet customer needs and expectations.
+- This analysis of taxi trips trends and revenue trends from April 28 to June 8, 2017 draws the following insight. 
+- __Overall Trends:__ From April 28 to June 8, 2018, there were fluctuations in terms of the total number of trips by taxis, along with the total amount generated, thereby showing changes in demand and economic factors over time.
+- __Weekend Peaks:__ Year by year, weekends show larger volumes and revenues of trips against other weekdays. This clearly reflects the evident role of leisure travel and other recreational activities in the overall demand for taxi services during weekends.
+- __Holiday Impact:__ This is a fact: prominent peaks of trips volume and revenue were observed during holidays or long weekends like Memorial Day weekend (May 26th-28th) and June 1st.
+- __Mid-Week Trends:__ While generally treated as days with lower ride volumes compared to weekends, some weekdays—specifically Thursdays and Fridays—have the largest number of rides taken and revenue, likely due to commuting, social events, and nightlife.
+- __Trends in the End-of-Month Period:__ From May 31st through June 8th, there is a gradual decline in the number of trips and revenue, which may indicate a real shift or change at the latter end of the month in travel patterns or economic conditions.
+- __Economic Indicators:__ Other broader factors that may result in changes in trip volumes and revenues are consumer spending trends, employment levels, and tourist activity that impacts demands for transport services.
+- __Operational Considerations:__ An appreciation of the trends and patterns in taxi trips and their revenues during that time period will guide operational decisions on fleet management, manning, pricing strategies, and promotion campaigns by taxi operators.
+- __Revenue Forecasting:__ Developing forecasting models against historical trips and their trends in revenues could provide taxi operators with the projection of their future streams. That would, therefore, help them plan and provide for their resources accordingly.
+- __Customer Behavioural Insights:__ Analysing volumes of journeys and patterns of revenues may indicate something about customer behaviours, preferences, or travel habits, and hence guide relevant service improvements and marketing strategies to better answer customer needs and expectations.
 <br />
 <br />
 
 - <img src="images/Total_Trips_By_Vendor.jpg" width="250">
 
 - **Total Trips By Vendor:**
-- In this analysis of the Total Trips By Vendows, i came up with the insights below:
-- __Dominance of Verifone Inc:__ Verifone Inc emerges as the dominant player in the taxi industry, with a significantly higher total number of trips compared to Creative Mobile Technologies. The total trips of 1,668,809 by Verifone Inc represent approximately 82.15% of the total market share, indicating a strong presence and widespread adoption of Verifone's services within the industry.
-- __Market Share Disparity:__ The disparity in total trips between Verifone Inc and Creative Mobile Technologies highlights the uneven distribution of market share within the taxi industry. Verifone Inc's overwhelming market dominance suggests factors such as brand recognition, service reliability, and market penetration, which may contribute to its larger customer base and trip volumes.
-- __Competitive Landscape:__ Creative Mobile Technologies, while holding a smaller market share, still maintains a presence in the industry with a total of 362,607 trips. Although its market share percentage of 17.85% is significantly lower than Verifone Inc's, Creative Mobile Technologies still serves as a viable competitor in the market, catering to a niche segment or specific customer base.
-- __Customer Preference and Satisfaction:__ The higher number of trips attributed to Verifone Inc may indicate a higher level of customer preference and satisfaction with its services, reflecting positively on factors such as service reliability, convenience, and overall customer experience.
+- On this analysis of Total Trips By Vendors, I developed the following insight:
+– __Verifone Inc dominance:__ Verifone Inc is the most preeminent company in the taxi industry, having enormously higher total rides compared to Creative Mobile Technologies. Its total rides taken, amounting to 1,668,809, add up to approximately 82.15% of the total market share, thus mirrors to be a strong presence and high diffusion of Verifone services across the industry.
+- __Market Share Gap:__ Verifone Inc. took a maximum number of trips compared to Creative Mobile Technologies, which extends to mean a gap in market share between the two companies. Without a doubt, the dominance of Verifone Inc. in the taxi business at more than 95% definitely calls for factors such as brand recognition, service reliability, and market penetration, among others, that would give it a greater customer base with higher trip volumes compared to its closest competitor.
+- __Competitive Landscape:__ Though a fraction of the market share, Creative Mobile Technologies still comes in second with a total of 362,607 trips. Its percentage of the market share is 17.85%, considerably lower than that of Verifone Inc. Still, Creative Mobile Technologies is a force the first company has to contend with as it services a niche segment or specific customer base.
+- __Customer Preference and Satisfaction:__ The higher number of trips attributed to Verifone Inc. can be interpreted to mean, at a general level, a greater preference and higher customer satisfaction rate than its counterpart, thereby reflecting positively on parameters such as service reliability, convenience, and customer experience.
 <br />
 <br />
 
 - <img src="images/Total_Trips_By_Payment_Type.jpg" width="250">
 
 - **Total Trips By Payment Type:**
-- Below are insights i generated for the Total Trips By Payment Type:
-- __Preference for Credit Card Payments:__ The analysis reveals that credit card payments are the most preferred payment method for taxi trips, accounting for a total of 1,092,527 trips.The dominance of credit card payments suggests a growing trend towards cashless transactions, driven by factors such as convenience, security, and rewards offered by credit card companies.
-- __Significance of Cash Payments:__ Despite the popularity of credit card payments, cash payments still hold a considerable share of the market, totaling 938,889 trips. Cash payments remain relevant due to factors such as customer preference, accessibility, and convenience, particularly for individuals without access to credit cards or those who prefer to manage their expenses in cash.
-- __Diverse Payment Preferences:__ The coexistence of credit card and cash payments reflects the diverse preferences and needs of taxi passengers, who may choose their preferred payment method based on factors such as personal financial habits, accessibility to banking services, and convenience.
+- Listed below are the insights I derived for the Total Trips By Payment Type:
+- __Preference of Credit Card Payments:__ The data analysis shows that the most preferred method of payment for trips taken in taxis is by credit card payment, totaling 1,092,527. The predominance of credit cards in making payments for travel in taxis is more predisposed to a growing trend toward cashless transactions, precipitated by factors such as convenience, security, and rewards by credit card companies.
+- __Importance of Cash Payment:__ Even though the volume of credit card payment was enormous, cash payments still had a fair share of the market with 938,889 rides. Customer preference and ease of access, along with comfort in using cash payments for those customers who either do not have a credit card or just prefer cash to manage their expenses, keeps this source of payment relevant.
+- __Diverse Payment Preferences:__ Coexistence of credit-card and cash payments; diverse preferences and needs of passengers of taxis who may prefer their mode of payment based on aspects such as personal financial habits, access to banking services, and convenience.
 <br />
 <br />
 
 - <img src="images/Total_Trips_By_Borough.jpg" width="250">
 
 - **Total Trips By Borough:**
-- In the Total Trips By Borough, i came up with some insights:
-- Manhattan emerges as the borough with the highest number of taxi trips, recording 747,461 trips. This result is not surprising given Manhattan's status as a major commercial, financial, and tourist hub in New York City. The high volume of taxi trips in Manhattan reflects the bustling activity and dense population within the borough, with significant demand for transportation services.
-- Brooklyn and Queens follow closely behind Manhattan, with 586,543 and 578,673 trips, respectively. These boroughs also have considerable populations and economic activity, contributing to their relatively high number of taxi trips. The diverse neighborhoods and attractions in Brooklyn and Queens, along with residential areas and commercial centers, likely drive demand for taxi services.
-- The Bronx records a lower number of taxi trips compared to Manhattan, Brooklyn, and Queens, with 118,046 trips. While the Bronx may have fewer tourist attractions and commercial districts compared to other boroughs, it still represents a significant market for taxi services, serving residents and visitors alike.
-- Staten Island and EWR (Newark Liberty International Airport) have the lowest number of taxi trips among the boroughs, with 585 and 108 trips, respectively. Staten Island's lower population density and limited public transportation options contribute to fewer taxi trips within the borough. EWR's low number of taxi trips is expected, as it primarily serves as an airport with taxi services catering to travelers arriving or departing from the airport.
+- In the Total Trips by Borough, some of the insights that I came up with were as follows:
+- Manhattan was the borough with the highest number of taxi trips, with 747,461. The result for Manhattan does not come as a surprise as it is the leading commercial, financial, and tourist district of New York City. This high volume of taxi trips in Manhattan simply reflects the high activities and density within the borough with a high demand for transportation services.
+- Brooklyn and Queens are the next closest to Manhattan, with 586,543 and 578,673 trips, respectively. These boroughs have large populations and significant economic activity as well, which would help explain their relatively high volumes of taxicab trips. Probably the varied kinds of neighborhoods and attractions in Brooklyn and Queens drive demand for taxis, as well as residential areas and commercial centers that incorporate them.
+- The Bronx is the borough with the least number of taxi trips: 118,046. Compared to the other boroughs—Manhattan, Brooklyn, and Queens—Bronx perhaps has fewer attractions and commercial districts, but nonetheless, it remains a very important market for taxi services to its residents and visitors.
+- The lowest in taxi trips are Staten Island and EWR with 585 and 108 trips respectively. It is assumed that Staten Island has fewer taxi rides probably because of its lower population density and little transport, which leads to less traffic circulation within the borough. The low number of taxi trips from EWR is expected since it is primarily an airport; its taxi services are mainly targeted at arriving/departing travelers.
 <br />
 <br />
 
 - <img src="images/Top6_Trips_Zones.jpg" width="250">
 
 - **Top 6 Trips Zones:**
-- This analysis showcases and gives insight in to the top 6 trips zones. The analysis details below:
-- __East Harlem North Dominance:__ East Harlem North emerges as the top trips zone with 69,116 trips, indicating a high demand for taxi services in this area. Factors such as residential density, commercial activity, and transportation accessibility likely contribute to the popularity of this zone for taxi trips.
-- __Central Harlem North Close Second:__ Central Harlem North closely follows East Harlem North with 67,322 trips, showcasing a similar level of demand for taxi services. The proximity to cultural attractions, dining options, and transportation hubs in Central Harlem North likely drives the high volume of trips in this zone.
-- __Astoria's Strong Performance:__ Astoria ranks third among the top trips zones with a total of 63,712 trips, indicating significant demand for taxi services in this neighborhood. Astoria's diverse population, vibrant nightlife, and proximity to transportation hubs contribute to its popularity as a taxi destination.
-- __Central Harlem and Jackson Heights Appeal:__ Central Harlem and Jackson Heights follow closely behind with 60,523 and 56,728 trips, respectively. These neighborhoods are known for their cultural diversity, residential communities, and commercial activity, attracting both residents and visitors who rely on taxi services for transportation.
-- __Park Slope's Moderate Performance:__ Park Slope rounds out the top 6 trips zones with 49,809 trips, showcasing a slightly lower volume compared to the top-ranking zones. However, Park Slope's reputation as a desirable residential neighborhood with trendy shops, restaurants, and parks likely contributes to its consistent demand for taxi services.
+- Here is a a detailed analysis for the top 6 trip zones:
+- __East Harlem North Dominance:__ East Harlem North is the leading trips zone, with 69,116 trips; thus, it is a high-volume taxi demand area. Probably, residential density and business activities drive demand in that zone, along with their accessibility to transportation.
+- __Central Harlem North Close Second:__ Central Harlem North follows with 67,322 trips to East Harlem North, almost as high a demand for the service. In the case of Central Harlem North, its proximity to cultural attractions, dining options, and key transportation hubs would have driven this zone's volume of trips to a high amount.
+- __Astoria performed well:__ Astoria placed third of the top trip zones, with 63,712 trips amounting to a huge demand in taxi rides for this neighborhood. Astoria hosts people of all walks of life, has a 'lively' night scene, and is a stone's throw away from main transportation hubs—a set of features that should make it a big taxi destination.
+- __Central Harlem and Jackson Heights Appeal:__ The runners-up are Central Harlem and Jackson Heights that account for 60,523 and 56,728 trips respectively. The cossetting neighborhoods are culturally diverse composed of residential communities and have commercial activity that appeals both to the residents and visitors who move around using taxi services.
+- __The Middle-of-the-Pack Performance of Park Slope:__ Finally, to round out the top 6 trip zones, it had 49,809 trips, showing a slightly lower volume compared with those zones ranking above. The premium of living in Park Slope—trendy shops, restaurants, and beautiful parks—has meant that the already steady demand for taxi rides is likely to be further driven up.
 <br />
 <br />
 
 - <img src="images/Trips_By_DayOfWeek.jpg" width="250">
 
 - **Trips By Days of The Week:**
-- From my analysis on Trips By the Days of the Wwek, i found these key insights:
-- __Weekend Dominance:__ Sunday emerges as the day with the highest number of taxi trips, totaling 313,636 trips, closely followed by Friday with 311,629 trips, and Saturday with 297,812 trips. This pattern indicates a trend of increased travel and transportation demand during weekends, likely driven by recreational activities, leisure travel, and social outings.
-- __Weekday Trends:__ Weekdays, on the other hand, exhibit slightly lower trip volumes compared to weekends. Thursday ranks fourth with 286,450 trips, followed by Tuesday with 276,393 trips, Monday with 274,772 trips, and Wednesday with 270,724 trips. This suggests that weekdays experience relatively stable but slightly lower demand for taxi services compared to weekends, influenced by factors such as commuting, work-related travel, and errands.
-- __Customer Behavior Insights:__ The higher demand for taxi services on weekends may reflect shifts in consumer behavior and lifestyle preferences, with individuals opting for taxis as a convenient and flexible mode of transportation for social activities, events, and outings. 
-- __Traffic and Events Influence:__ Factors such as traffic congestion, special events, and cultural activities may also influence daily trip volumes. For instance, increased traffic during weekdays may impact trip durations and availability, while major events or festivals occurring on weekends may lead to spikes in demand for taxi services in specific areas.
-- __Operational Considerations:__ Taxi operators can use data on trips by days of the week to optimize driver schedules, pricing strategies, and service coverage to match fluctuating demand patterns.
-- __Urban Mobility Planning:__ Policymakers and urban planners can use insights from daily trip volumes to inform transportation infrastructure planning and development. This includes optimizing public transportation schedules, improving road conditions, and implementing policies to manage traffic flow and congestion, ultimately enhancing urban mobility and accessibility for residents and visitors alike.
+- Below is an analysis of trips by days of the week:
+- __Weekend Dominance:__ Sunday tops the list of the highest number of taxi trips with an average of 313,636, very closely followed by Fridays with 311,629 mean trips, and Saturdays with 297,812 mean trips. This distinctly shows the tendency for more travels and transport needs over the weekends, probably for recreation, leisure travel, and social outings.
+Thursday, in relative comparison, ranks fourth, with 286,450; Tuesday, third, with 276,393; Monday, fourth, with 274,772 trips; and Wednesday, fifth, with 270,724 trips. This would then suggest that, as compared to weekends, weekdays generally hold steady but somewhat inferior demands for taxi rides due to a variety of variables such as commuting, work-related travel, and running errands.
+- __Customer Behavior Insights:__ Increasing weekend demand may indicate changing consumer behavior and lifestyle preferences. That is to say, increasing use of taxis for convenience and flexibility for social activities, events, and outings.
+- __Traffic and Events Influence:__ Other factors that may influence daily trip volumes include traffic, special events, and cultural activities. For example, high traffic on weekdays could alter the duration and availability of trips, while large events or festivals taking place at weekends could increase the demand for taxi services in certain areas.
+Operational Considerations: With information about which days of the week trips occur, taxi operators can spread out their drivers more efficiently and adjust pricing strategies such that there is balance in periods of surge demand.
 <br />
 <br />
 
 - <img src="images/Trips_By_Time_Of_Day.jpg" width="400">
 
 - **Trips By Time of The Day:**
-- This analysis opens-up a clear view into the volume of trips embarked by taxis in relationship to the time of the day, and wonderful insights can be accessed here:
-- __Nighttime Dominance:__ Night emerges as the time of day with the highest number of taxi trips, totaling 536,556 trips. This pattern suggests a significant demand for taxi services during nighttime hours, likely driven by factors such as nightlife activities, social events, and late-night commuting.
-- __Morning Rush:__ Morning ranks second in terms of trip volume, with 442,310 trips, indicating a substantial demand for taxis during the morning rush hour. Commuters, workers, and students likely rely on taxis for transportation to work, school, and other daytime destinations during this peak period.
-- __Evening Activity:__ Evening follows closely behind with 401,717 trips, reflecting continued demand for taxi services during the evening hours. This time period may encompass a range of activities, including dining out, entertainment, and leisure travel, contributing to the steady flow of taxi trips.
-- __Afternoon Lull:__ Afternoon experiences slightly lower trip volumes compared to morning and evening, with 392,141 trips. This time period may represent a lull in taxi demand as individuals are engaged in work, errands, or other daytime activities, resulting in fewer transportation needs.
-- __Early Morning Usage:__ Early morning ranks last in terms of trip volume, with 258,692 trips. While still significant, this lower demand during the early hours of the morning may reflect a quieter period with fewer travelers and commuters requiring taxi services.
-- __Operational Considerations:__ Taxi operators can use insights from trips by time of day to optimize driver schedules, fleet deployment, and pricing strategies to match fluctuating demand patterns throughout the day..
-- __Urban Mobility Planning:__ Urban planners and policymakers can leverage data on trip volumes by time of day to inform transportation infrastructure planning and management. 
-<br />
+- This analysis does provide a clear look at the volume of trips undertaken by taxis based on the time of day and provides a few wonderful insights that might be found here:
+- __Nighttime Dominance:__ Nighttime surfaces as the day's time most of the taxi trips created at 536,556 trips. This could be an indication that during these hours set in time for the nighttime, there would be high demand for taxi services as a result of existing multiple activities that relate to nightlife, several social events and late-night commuting.
+- __Morning Rush:__ It is immediately after the Evening Rush, with the second-highest volume for the time specified, standing at 442,310, thus immense demand for taxi services at the period stands out. Commuters, workers, and students must, therefore, rely on taxis as a means of movement to work, school, and other day-time destinations during this peak period.
+- __Evening Activity:__ The evening, at 401,717 trips, comes closest to this total, thus showing further strong demand for taxi services in the evening. This time will incorporate a number of activities, such as dining out or entertainment, combined with leisure travel to account for this steady stream of taxi trips.
+- __Afternoon Lull:__ In comparison to the time frames of morning and evening, there are slightly less trips in afternoon travel – 392,141 trips. This tends to indicate as a lull in taxi demand, given that during the day, most people will be at work, running errands, or engaged in other activities, which means they need to travel less.
+- __Side note:__ Early Morning Use The time rack for early morning had the lowest volume, at 258,692 trips. This is surely no small figure; however, the ease of the early morning hours could imply that this possibly is a somewhat quieter time when much less travelers and other commuters require a taxi.
+- __Operational Considerations:__ Taxi operators can use insights into trips by time of day to build out driver schedules, fleet deployment, and pricing strategies against fluctuating demand patterns across times of the day.
+- <br />
 <br />
 
 - <img src="images/Most_Popular_Pickup_%26_Dropoff_Boroughs.jpg" width="450">
 
 - **Most Popular Pickup and Drop-oof Boroughs:**
-- This analysis showcases the top 3 most popular boroughs by the volume of daily taxi trips as seen below:
-- __Manhattan's Dominance:__ Manhattan emerges as the most popular pickup and drop-off borough, with 747,461 trips recorded. This dominance is not surprising given Manhattan's status as a major commercial, cultural, and tourist hub within New York City. The borough's dense population, iconic landmarks, and extensive transportation network contribute to its high demand for taxi services.
-- __Brooklyn's Significant Role:__ Brooklyn follows closely behind Manhattan with 586,543 trips, showcasing its significance as both a pickup and drop-off location. Brooklyn's diverse neighborhoods, cultural attractions, and growing population contribute to its popularity as a destination for taxi trips. Additionally, Brooklyn's proximity to Manhattan and its status as a residential hub further drive demand for transportation services.
-- __Queens' Substantial Demand:__ Queens ranks third in terms of popularity for both pickup and drop-off locations, with 578,673 trips. As one of the largest boroughs in New York City, Queens offers a mix of residential neighborhoods, commercial centers, and cultural attractions. Its diverse population and economic activity contribute to the steady demand for taxi services within the borough.
+- This analysis depicts the top 3 most popular boroughs by the quantity of daily taxi trips as panned out below:
+- __Manhattan Tops:__ The whole of 747,461 trips was observed as the maximum picked-up and dropped-off area in Manhattan. There could not be any more evident reason because Manhattan is really a core of business, cultural, and tourist activities in the City of New York. High, though relatively small, population; iconic structures; and elaborate transportation highly drive the demand for taxi service in the borough.
+- __The Role of Brooklyn:__ Following Manhattan with 586,543 trips, the current study showed that Brooklyn was also crucial as a source and destination for Federal taxi trips. Its culturally rich and large, with distinct neighborhoods, combined with its growing population, can account for its importance as a destination for Federal taxi trips. Therefore, when we consider that Brooklyn is close to Manhattan and a hub for residency, the demand of transportation to Brooklyn is further higher.
+- __High Demand in Queens:__ Queens was ranked the third most popular location for both pickups and drop-offs, attracting 578,673 trips. One of the largest boroughs in New York City, Queens is a mix of residential, commercial centers, and many cultural attractions. This elasticity will, in turn, contribute to creating constant demand for taxi services within this borough because of its diverse population and economic activity.
 <br />
 <br />
 
 - <img src="images/Average_No_Of_Trips_By_Day.jpg" width="450">
 
 - **Average Number of Trips By Day Trend:**
-- This analysis shows insights of the Average Number of Trips By Day Trend:
-- __Weekend Dominance:__ Friday emerges as the day with the highest average number of trips per day, with 15,581.45 trips. This trend indicates a surge in taxi demand at the end of the workweek, likely driven by social activities, nightlife, and increased travel.
-- __Strong Sunday and Saturday Performance:__ Sunday and Saturday follow closely behind Friday in terms of average daily trips, with 14,933.05 and 14,890.60 trips, respectively. The high demand for taxi services on weekends reflects leisure travel, recreational outings, and relaxation activities undertaken by residents and visitors.
-- __Midweek Variations:__ While weekdays experience slightly lower average daily trip volumes compared to weekends, there are notable variations among the weekdays. Thursday ranks fourth with 14,322.50 trips, followed by Tuesday with 12,563.32 trips, Wednesday with 12,305.64 trips, and Monday with 11,946.61 trips.
-- __Monday's Lower Performance:__ Monday exhibits the lowest average number of trips per day among the weekdays, likely reflecting a slower start to the workweek following the weekend. Reduced travel for work-related purposes and fewer social activities contribute to the lower demand for taxi services on Mondays.
-- __Implications for Service Planning:__ Taxi operators can use insights from the average number of trips by day trend to adjust service levels, optimize driver schedules, and allocate resources based on fluctuating demand patterns throughout the week. By aligning service provision with peak demand periods, operators can enhance service quality and improve overall operational efficiency.
+Average Number of Trips by Day Trend: These views below are portrayed in the trend of the average number of trips per day:
+- __Weekend Domination:__ Fridays average 15,581.45 rides per day, which is highest in rides in the database. This tends to indicate that high demand for taxis shifts to the end of the workweek probably due to social activities, nightlife, or just higher traveling.
+– __High Sunday and Saturday performance:__ Sunday and Saturday do not fare too far behind Friday at 14,933.05 and 14,890.60 trips on average respectively. Evidently, all this huge demand for taxi services during the weekend represents leisure travel, recreational outings, and other activities meant for unwinding that residents and visitors usually undertake.
+- __Midweek Variations:__ While weekends generally held rather relatively higher average daily volumes as opposed to weekdays, rather significant day-of-the-week variations were at play across weekdays. Thursday placed fourth with 14,322.50, followed by Tuesday, which averaged 12,563.32 trips, Wednesday at 12,305.64 trips, and finally, Monday at 11,946.61 on average.
+- __Service Planning Implications:__ This will hence enable taxi operators to change levels of service, generate optimum driver schedules, and resource against patterns of demand that vary throughout the week. Adjustments like this bring periods of service provision closer to peaks in demand and therefore improve service quality and operational efficiency.
 <br />
 <br />
 
 - <img src="images/Busiest_Days_Oof_The_Week_%26_Time_Of_The_Day.jpg" width="550">
 
 - **Busiest Time and Days of The Week Trend:**
-- This is an aanalysis of the Busiest Time and Days of the Week Trend, you can have a look at the insights i came up with for this below:
-- __Weekend Evenings Dominate:__ Weekend evenings, particularly Sunday and Saturday nights, emerge as the busiest times for taxi trips, with 60,288 and 57,064 trips, respectively. This trend aligns with typical leisure and social activities, as individuals often engage in nightlife, dining out, and entertainment during weekends.
-- __Early Morning Surge on Weekends:__ Early mornings on weekends, especially Sunday, experience a significant surge in taxi trips, with 86,590 trips recorded. This spike likely corresponds to travel for early morning activities such as airport drop-offs, weekend getaways, or work shifts, highlighting the importance of taxi services during non-traditional hours.
-- __Friday Mornings and Nights:__ Friday mornings and nights also exhibit high taxi trip volumes, with 70,057 trips in the morning and 93,157 trips at night. The morning rush likely reflects commuters and travelers heading to work or starting weekend travel, while the evening surge may be attributed to people beginning their weekend festivities.
-- __Weekday Evenings Show Consistent Demand:__ Evenings on weekdays, particularly Thursday and Wednesday nights, demonstrate consistent demand for taxi services, with 59,775 and 56,586 trips, respectively. This suggests that individuals continue to rely on taxis for transportation after work or evening activities during the workweek.
-- __Afternoon Trends Across the Week:__ Afternoons throughout the week show relatively stable demand for taxi services, with Sunday afternoon recording the highest number of trips at 60,288. This indicates that individuals utilize taxis for various daytime activities, including shopping, errands, and leisure outings, across all days of the week.
-- __Operational Considerations:__ Taxi operators can use insights from the busiest time and days of the week trend to optimize fleet deployment, adjust driver schedules, and allocate resources to meet fluctuating demand patterns. By aligning operations with peak demand periods, operators can improve service efficiency and customer satisfaction.
+This is a trend analysis of the busiest time and day of the week, and here are the insights I could develop:
+- Weekend Evenings Dominate: The most interior taxi trip times are weekend evenings. Sunday night and Saturday night top the list with 60,288 and 57,064 taxi trips, respectively. This corresponds to the prototypical patterns of leisure and socialising; one major way people typically spend their weekend evenings is living it up at nightspots, going out for dinner, and having fun.
+- Early Morning Surge on Weekends—Waking up early on weekends, in particular on Sundays, surge is high in taxi trips at 86,590. This would correspond most likely to an earlier travel time for activities such as airport drop-offs, weekend getaways, or shifts at work, underpinning the importance of taxi service even at off-hours.
+- Friday Mornings and Nights: Taxicabs also run in large numbers on Friday mornings and nights. For instance, there are over 70,057 trips in the morning and 93,157 at night. The morning rush hour explains the fact that this time marks the commencement of people's journeys to their places of work or even highlights the onset of weekend travel, while the evening mostly describes people's beginning of weekend celebrations.
+- Weekday Evenings Show a Strong Steady Demand: Thursday, followed by Wednesday night, are days of the week when demand for taxi services is still strong with 59,775 and 56,586 trips, respectively. It would likely be an indication that there is a perpetual market for taxis to take people beyond work or evening hour activities in the middle of a workweek.
+- Afternoon Trends for the Week: One could find relative stability in the demand of taxi services in the afternoons over the week. To be more specific, Sunday afternoon has the highest number of trips with 60,288, indicating that due to various activities people engage in during the day, they tend to use taxis not only during the weekdays but during the whole week.
 <br />
 <br />
 
@@ -372,16 +369,15 @@ You can view and interact with this dashboard report on New York City Taxi Trips
 <br />
 
 ## Recommendations For Enhancing New York City Taxi Service:
-- __Improve Service Quality:__ Implement rigorous training programs for taxi drivers to enhance professionalism, customer service skills, and knowledge of city routes. Encourage drivers to maintain clean and well-maintained vehicles to provide a comfortable and safe travel experience for passengers.
-- __Enhance Technology Integration:__ Invest in advanced booking and dispatch systems, mobile apps, and GPS navigation tools to streamline taxi bookings, reduce waiting times, and improve overall service efficiency.
-- __Offer Personalized Services:__ Explore innovative service offerings such as luxury vehicle options, pet-friendly rides, and wheelchair-accessible taxis to cater to diverse customer needs and preferences. 
-- __Implement Dynamic Pricing Strategies:__ Utilize dynamic pricing models to adjust fares based on demand and supply dynamics, traffic conditions, and time of day. Offer discounts, promotions, and loyalty programs to incentivize repeat usage and attract new customers during off-peak hours.
-- __Expand Service Coverage:__ Extend taxi service coverage to underserved areas, suburban neighborhoods, and transportation hubs such as airports, train stations, and major attractions. 
-- __Promote Sustainability Initiatives:__ Introduce eco-friendly vehicle options, such as electric or hybrid taxis, to reduce environmental impact and contribute to sustainability goals.
-- __Enhance Safety and Security Measures:__ Strengthen safety protocols and security measures to ensure the well-being of passengers and drivers. 
-- __Engage in Community Outreach:__ Foster positive relationships with local communities by participating in community events, sponsoring neighborhood initiatives, and supporting charitable causes.
-- __Provide Transparency and Accountability:__ Establish clear and transparent pricing policies, fare structures, and service standards to build trust and confidence among passengers.
-- __Collaborate with Stakeholders:__ Collaborate with city authorities, transportation agencies, and industry stakeholders to address regulatory challenges, streamline licensing processes, and promote innovation in the taxi industry. 
+- __Service Quality Improvement:__ Set up a rigid system of training that taxi drivers undergo to become more professional, having very well-developed customer service skills, whereby knowledge of the routes in a city is greatly enhanced. Drivers are incentivized to keep their cars clean and serviced to ensure comfort and security during road journeys.
+- __Integrated technology:__ The latest booking and dispatch systems, mobile applications, and GPS navigation tools may facilitate taxi bookings and hence help reduce waiting time, generally improving service efficiency.
+- __Dynamic Pricing Strategies:__ Implement dynamic pricing models about demand and supply dynamics, traffic condition, and the time of the day after adjustments in view to adjust the fare price. This offers discounts, promotions, and loyalty schemes that would encourage repeated usage and draw new customers during off-peak hours.
+- __Extension of Service:__ Service extension to unserved and underserved areas, suburban neighborhoods, and other improved transportation nodes, including airports, rail stations, and major attraction centers.
+- __Enviromental Friendly Vehicles:__ Introduce environmentally friendly vehicle options, for example, electric or hybrid taxis, that have less impact on the environment and are key to hitting sustainability goals.
+- __Enhance Safety and Security:__ develop a much more solid system of safety practices and security policies to protect the interests of the passengers and drivers even further.
+- __Community Outreach:__ build good rapport within local communities through effective engagement in community activities, through the sponsorship of neighbourhood events, and in philanthropic giving.
+- __Transparency and Accountability:__ Design and clearly communicate to passengers transparent policies on pricing, fares, and service levels in a manner that will engender passenger confidence in the service.
+- __Stakeholder Engagement:__ Collaborate with local authorities and transport/industry partners in eliminating the regulatory impediments that are strangulating the taxi industry, in simplifying licensing, and in fast-tracking innovation.
 <br />
 <br />
 
