@@ -213,10 +213,10 @@ Model View                                                                      
 <br />
 
 ## Visualization in Power BI:
-#### Report View 1
+#### Trips & Revenue
 ![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard1.jpg)
 
-#### Report View 2
+#### Trip Patterns
 ![](images/New_York_City_Taxi_Trips_Analysis_(2017-2018)_Dashboard2.jpg)
 <br />
 <br />
@@ -364,8 +364,8 @@ This is a trend analysis of the busiest time and day of the week, and here are t
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report on New York City Taxi Trips (2017-2018) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiM2FiNTRkNWItNDYxNC00NjUwLWE2NzAtOTVlZTAyM2QyN2UyIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI:
+You can view and interact with this dashboard on the New York City Taxi Trips (2017-2018) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiM2FiNTRkNWItNDYxNC00NjUwLWE2NzAtOTVlZTAyM2QyN2UyIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
